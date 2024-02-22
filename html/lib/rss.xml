@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 22 Feb 2024 15:42:18 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 22 Feb 2024 15:42:17 GMT</pubDate><copyright><![CDATA[Hexenmeister]]></copyright><ttl>60</ttl><dc:creator>Hexenmeister</dc:creator><item><title><![CDATA[Welcome]]></title><description><![CDATA[ 
+ <br><img alt="logo.png" src="\_attachments\logo.png" style="width: 650px; max-width: 100%;"><br><br>Welcome to Caitha, dear reader.<br>
+This worldbuilding project has been and still is a great journey that began in 2020, but has its roots in my childhood fascination with worldbuilding.<br>
+I can trace this fascination back to about the age of 7, where my early attempts at map-making gave birth to many Island Nations, each proudly bearing the name "Joshuania".<br>
+These miniature realms, with their train stations, sun-kissed beaches and grocery stores were my 7-year-old-self's vision of the perfect country, led, of course, by none other than me.<br>Now, with Caitha, my ambition has evolved. My goal is to breathe life into the fantasy world that has been brewing in my notes over the years, a world teaming with magic, history, and untold adventures. Caitha isn't just a static creation; it's a canvas for stories I might tell, a potential stage for epic quests in games like DnD or Pathfinder, or a backdrop for stories in whatever types of mediums I want to explore.<br>But even if I never venture beyond chronicling the history or writing about flora and fauna of Caitha, that's perfectly fine. The real joy for me at the moment lies in the act of building, in creating, in getting lost in the tapestry of this world, which is, in my mind, a lot more than I am currently capable of writing down.<br>So, whether you're here to explore or because I sent you the link eager to get some feedback on if the site is finally working or not:<br>
+Welcome to Caitha.<br><a data-tooltip-position="top" aria-label="Table of Elements" data-href="Table of Elements" href="\table-of-elements.html" class="internal-link" target="_self" rel="noopener">Enter</a><br><br>There are no blog posts available]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Hexenmeister]]></dc:creator><pubDate>Fri, 13 Oct 2023 08:49:48 GMT</pubDate><enclosure url="_attachments\logo.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;_attachments\logo.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[General Elements]]></title><description><![CDATA[ 
+ <br><img alt="logo.png" src="\_attachments\logo.png" style="width: 650px; max-width: 100%;"><br>the following list is structured after the "worldbuilding Table of Elements" by <a data-tooltip-position="top" aria-label="https://www.reddit.com/r/worldbuilding/comments/u55hfb/worldbuilding_table_of_elements/" rel="noopener" class="external-link" href="https://www.reddit.com/r/worldbuilding/comments/u55hfb/worldbuilding_table_of_elements/" target="_blank">u/otherAtlas</a><br>
+traveler, beware! many articles listed here are not published yet and are still being refined<br><br>
+<br><a data-href="Maps" href="\maps\maps.html" class="internal-link" target="_self" rel="noopener">Maps</a>
+<br><a data-href="Timelines" href="\timelines\timelines.html" class="internal-link" target="_self" rel="noopener">Timelines</a>
+<br><a data-href="Time and the Calendar" href="\timelines\time-and-the-calendar.html" class="internal-link" target="_self" rel="noopener">Time and the Calendar</a>
+<br><br>
+<br><a data-href="Continents" href="\geographic-elements\continents.html" class="internal-link" target="_self" rel="noopener">Continents</a>
+<br><a data-href="Seas and Oceans" href="\Seas and Oceans" class="internal-link" target="_self" rel="noopener">Seas and Oceans</a>
+<br><a data-href="Rivers and Lakes" href="\Rivers and Lakes" class="internal-link" target="_self" rel="noopener">Rivers and Lakes</a>
+<br><a data-href="States and Nations" href="\States and Nations" class="internal-link" target="_self" rel="noopener">States and Nations</a>
+<br><a data-href="Cities" href="\Cities" class="internal-link" target="_self" rel="noopener">Cities</a>
+<br><a data-href="Towns" href="\Towns" class="internal-link" target="_self" rel="noopener">Towns</a>
+<br><a data-href="Villages &amp; Smaller" href="\Villages &amp; Smaller" class="internal-link" target="_self" rel="noopener">Villages &amp; Smaller</a>
+<br><br>Caitha has a temperate climate, with temperatures ranging from -50 degrees Celsius up to 40 degrees Celsius. The Surface of Caitha is mostly covered in oceans.<br>
+<br><a data-href="Races" href="\races\races.html" class="internal-link" target="_self" rel="noopener">Races</a>
+<br><a data-href="Flora" href="\flora\flora.html" class="internal-link" target="_self" rel="noopener">Flora</a>
+<br><a data-href="Fauna" href="\fauna\fauna.html" class="internal-link" target="_self" rel="noopener">Fauna</a>
+<br><a data-href="Ecosystems" href="\ecosystems\ecosystems.html" class="internal-link" target="_self" rel="noopener">Ecosystems</a>
+<br><br>
+<br><a data-href="Architecture" href="\cultural-elements\architecture.html" class="internal-link" target="_self" rel="noopener">Architecture</a>
+<br><a data-href="Art" href="\cultural-elements\art.html" class="internal-link" target="_self" rel="noopener">Art</a>
+<br><a data-href="Fashion" href="\cultural-elements\fashion.html" class="internal-link" target="_self" rel="noopener">Fashion</a>
+<br><a data-href="Cuisine" href="\cultural-elements\cuisine.html" class="internal-link" target="_self" rel="noopener">Cuisine</a>
+<br><a data-href="Etiquette and Taboos" href="\cultural-elements\etiquette-and-taboos.html" class="internal-link" target="_self" rel="noopener">Etiquette and Taboos</a>
+<br><a data-href="Entertainment" href="\cultural-elements\entertainment.html" class="internal-link" target="_self" rel="noopener">Entertainment</a>
+<br><a data-href="Body Adornment" href="\cultural-elements\body-adornment.html" class="internal-link" target="_self" rel="noopener">Body Adornment</a>s
+<br><a data-href="Rituals" href="\cultural-elements\rituals.html" class="internal-link" target="_self" rel="noopener">Rituals</a>
+<br><a data-href="Celebrations" href="\cultural-elements\celebrations.html" class="internal-link" target="_self" rel="noopener">Celebrations</a>
+<br><br>
+<br><a data-href="Guilds and other Organizations" href="\guilds\guilds-and-other-organizations.html" class="internal-link" target="_self" rel="noopener">Guilds and other Organizations</a>
+<br><a data-href="Hierarchies" href="\Hierarchies" class="internal-link" target="_self" rel="noopener">Hierarchies</a>
+<br><a data-href="Heraldry and Vexillology" href="\Heraldry and Vexillology" class="internal-link" target="_self" rel="noopener">Heraldry and Vexillology</a>
+<br><a data-href="Calendars" href="\Calendars" class="internal-link" target="_self" rel="noopener">Calendars</a>
+<br><br>
+<br><a data-href="Recorded Histories" href="\Recorded Histories" class="internal-link" target="_self" rel="noopener">Recorded Histories</a>
+<br><a data-href="Legends and Tales" href="\historical-elements\legends-and-tales.html" class="internal-link" target="_self" rel="noopener">Legends and Tales</a>
+<br><a data-href="Artifacts" href="\Artifacts" class="internal-link" target="_self" rel="noopener">Artifacts</a>
+<br><a data-href="Ruins" href="\Ruins" class="internal-link" target="_self" rel="noopener">Ruins</a>
+<br><br>
+<br><a data-href="Alphabets and Languages" href="\Alphabets and Languages" class="internal-link" target="_self" rel="noopener">Alphabets and Languages</a>
+<br><a data-href="Figures of Speech" href="\Figures of Speech" class="internal-link" target="_self" rel="noopener">Figures of Speech</a>
+<br><a data-href="Slangs and Curses" href="\Slangs and Curses" class="internal-link" target="_self" rel="noopener">Slangs and Curses</a>
+<br><a data-href="Lies and Propaganda" href="\Lies and Propaganda" class="internal-link" target="_self" rel="noopener">Lies and Propaganda</a>
+<br><a data-href="Long Distance Communication" href="\Long Distance Communication" class="internal-link" target="_self" rel="noopener">Long Distance Communication</a>
+<br><br>
+<br><a data-href="Tools" href="\Tools" class="internal-link" target="_self" rel="noopener">Tools</a>
+<br><a data-href="Arms and Armour" href="\Arms and Armour" class="internal-link" target="_self" rel="noopener">Arms and Armour</a>
+<br><a data-href="Medicine" href="\Medicine" class="internal-link" target="_self" rel="noopener">Medicine</a>
+<br><br>
+<br><a data-href="Governments" href="\Governments" class="internal-link" target="_self" rel="noopener">Governments</a>
+<br><a data-href="Diplomacy and Politics" href="\Diplomacy and Politics" class="internal-link" target="_self" rel="noopener">Diplomacy and Politics</a>
+<br><a data-href="Political Events" href="\Political Events" class="internal-link" target="_self" rel="noopener">Political Events</a>
+<br><a data-href="War" href="\War" class="internal-link" target="_self" rel="noopener">War</a>
+<br><a data-href="Law and Order" href="\Law and Order" class="internal-link" target="_self" rel="noopener">Law and Order</a>
+<br><br>
+<br><a data-href="Currencies and Trade" href="\economics\currencies-and-trade.html" class="internal-link" target="_self" rel="noopener">Currencies and Trade</a>
+<br><a data-href="Businesses and Corporations" href="\Businesses and Corporations" class="internal-link" target="_self" rel="noopener">Businesses and Corporations</a>
+<br><a data-href="Rare Goods" href="\Rare Goods" class="internal-link" target="_self" rel="noopener">Rare Goods</a>
+<br><a data-href="Resources" href="\Resources" class="internal-link" target="_self" rel="noopener">Resources</a>
+<br><a data-href="Important Trade Routes" href="\Important Trade Routes" class="internal-link" target="_self" rel="noopener">Important Trade Routes</a>
+<br><br>
+<br><a data-href="Water Systems" href="\Water Systems" class="internal-link" target="_self" rel="noopener">Water Systems</a>
+<br><a data-href="Waste Systems" href="\Waste Systems" class="internal-link" target="_self" rel="noopener">Waste Systems</a>
+<br><a data-href="Transport Systems" href="\Transport Systems" class="internal-link" target="_self" rel="noopener">Transport Systems</a>
+<br><a data-href="Agriculture" href="\Agriculture" class="internal-link" target="_self" rel="noopener">Agriculture</a>
+<br><a data-href="Healthcare" href="\Healthcare" class="internal-link" target="_self" rel="noopener">Healthcare</a>
+<br><a data-href="Deathcare" href="\Deathcare" class="internal-link" target="_self" rel="noopener">Deathcare</a>
+<br><a data-href="Schools" href="\Schools" class="internal-link" target="_self" rel="noopener">Schools</a>
+<br><br>
+<br><a data-href="Gods" href="\Gods" class="internal-link" target="_self" rel="noopener">Gods</a>
+<br><a data-href="Religions" href="\Religions" class="internal-link" target="_self" rel="noopener">Religions</a>
+<br><a data-href="Sacred Texts" href="\Sacred Texts" class="internal-link" target="_self" rel="noopener">Sacred Texts</a>
+<br><a data-href="Afterlife Beliefs" href="\Afterlife Beliefs" class="internal-link" target="_self" rel="noopener">Afterlife Beliefs</a>
+<br><a data-href="Prophecies" href="\Prophecies" class="internal-link" target="_self" rel="noopener">Prophecies</a>
+<br><br>
+<br><a data-href="Magic/Magic in Caitha" href="\magic\magic-in-caitha.html" class="internal-link" target="_self" rel="noopener">Magic/Magic in Caitha</a>
+
+<br><a data-href="Magic Language" href="\languages\magic-language.html" class="internal-link" target="_self" rel="noopener">Magic Language</a>
+<br><a data-href="Druidic Magic" href="\Druidic Magic" class="internal-link" target="_self" rel="noopener">Druidic Magic</a>
+<br><a data-href="Magical Creatures" href="\Magical Creatures" class="internal-link" target="_self" rel="noopener">Magical Creatures</a>
+<br><a data-href="Unique Abilities" href="\Unique Abilities" class="internal-link" target="_self" rel="noopener">Unique Abilities</a>
+<br><a data-href="Constructed Itelligences" href="\Constructed Itelligences" class="internal-link" target="_self" rel="noopener">Constructed Itelligences</a>
+<br><a data-href="Magic Rituals" href="\Magic Rituals" class="internal-link" target="_self" rel="noopener">Magic Rituals</a>
+
+
+<br><a data-href="Paranormal Entities" href="\Paranormal Entities" class="internal-link" target="_self" rel="noopener">Paranormal Entities</a>
+<br><br>
+<br><a data-href="Stars" href="\Stars" class="internal-link" target="_self" rel="noopener">Stars</a>
+<br><a data-href="Planets" href="\Planets" class="internal-link" target="_self" rel="noopener">Planets</a>
+<br><a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a>
+<br><a data-href="Asteroids" href="\Asteroids" class="internal-link" target="_self" rel="noopener">Asteroids</a>
+<br><a data-href="Weathers and Storms" href="\Weathers and Storms" class="internal-link" target="_self" rel="noopener">Weathers and Storms</a>
+<br><a data-href="Strange Worlds" href="\Strange Worlds" class="internal-link" target="_self" rel="noopener">Strange Worlds</a>
+<br><br>
+<br><a data-href="Traps" href="\Traps" class="internal-link" target="_self" rel="noopener">Traps</a>
+<br><a data-href="Riddles and Puzzles" href="\Riddles and Puzzles" class="internal-link" target="_self" rel="noopener">Riddles and Puzzles</a>
+<br><a data-href="Forbidden Technologies" href="\Forbidden Technologies" class="internal-link" target="_self" rel="noopener">Forbidden Technologies</a>
+<br><a data-href="Crime" href="\Crime" class="internal-link" target="_self" rel="noopener">Crime</a>
+<br><a data-href="Illicit Goods and Services" href="\Illicit Goods and Services" class="internal-link" target="_self" rel="noopener">Illicit Goods and Services</a>
+
+<br><a data-href="Poison &amp; Venom" href="\Poison &amp; Venom" class="internal-link" target="_self" rel="noopener">Poison &amp; Venom</a>
+
+
+<br><a data-href="Disease" href="\Disease" class="internal-link" target="_self" rel="noopener">Disease</a>
+<br><a data-href="Cults" href="\Cults" class="internal-link" target="_self" rel="noopener">Cults</a>
+]]></description><link>table-of-elements.html</link><guid isPermaLink="false">Table of Elements.md</guid><dc:creator><![CDATA[Hexenmeister]]></dc:creator><pubDate>Thu, 25 Jan 2024 13:26:18 GMT</pubDate><enclosure url="_attachments\logo.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;_attachments\logo.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
