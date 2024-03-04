@@ -1,15 +1,21 @@
 {
-  "vaultName": "A Long Story",
-  "lastExport": 1708689257273,
+  "vaultName": "Caitha",
+  "lastExport": 1709203186503,
   "pluginVersion": "1.8.0",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title sizing-readable check-color check-bg wotc-beyond",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title sizing-readable check-color check-bg",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "_attachments/logo.png",
-    "_attachments/placeholder.png",
-    "Guilds/Warrior Guilds/Thunderhorn Clan.md",
-    "Guilds/Guilds and other Organizations.md",
+    "attachments/arcanebondwappen.png",
+    "attachments/caitha_continents.png",
+    "attachments/caitha_g_thumbnail.png",
+    "attachments/goldencrown.png",
+    "attachments/logo.png",
+    "attachments/placeholder.png",
+    "Economics/currency/Dwarven Crowns.md",
+    "Geographic Elements/Continents.md",
+    "Historical Elements/Legends and Tales/The Druidic Sacrifice.md",
+    "Historical Elements/Legends and Tales.md",
     "Maps/Maps.md",
     "Timelines/Time and the Calendar.md",
     "index.md",
@@ -40,12 +46,13 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
-    "lib/media/placeholder.png"
+    "lib/media/goldencrown.png",
+    "lib/media/caitha_continents.png",
+    "_attachments/logo.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -74,7 +81,6 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -82,45 +88,13 @@
   ],
   "fileInfo": {
     "_attachments/logo.png": {
-      "modifiedTime": 1708688687138,
+      "modifiedTime": 1709160385892,
       "sourceSize": 87467,
       "exportedPath": "_attachments/logo.png",
       "dependencies": []
     },
-    "_attachments/placeholder.png": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 38667,
-      "exportedPath": "_attachments/placeholder.png",
-      "dependencies": []
-    },
-    "Guilds/Warrior Guilds/Thunderhorn Clan.md": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 8207,
-      "exportedPath": "guilds/warrior-guilds/thunderhorn-clan.html",
-      "dependencies": [
-        "lib/media/placeholder.png"
-      ]
-    },
-    "Guilds/Guilds and other Organizations.md": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 361,
-      "exportedPath": "guilds/guilds-and-other-organizations.html",
-      "dependencies": []
-    },
-    "Maps/Maps.md": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 448,
-      "exportedPath": "maps/maps.html",
-      "dependencies": []
-    },
-    "Timelines/Time and the Calendar.md": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 2545,
-      "exportedPath": "timelines/time-and-the-calendar.html",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1708688687138,
+      "modifiedTime": 1709158185150,
       "sourceSize": 1619,
       "exportedPath": "index.html",
       "dependencies": [
@@ -128,203 +102,279 @@
       ]
     },
     "Table of Elements.md": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 3347,
+      "modifiedTime": 1709203186503,
+      "sourceSize": 3320,
       "exportedPath": "table-of-elements.html",
       "dependencies": [
-        "_attachments/logo.png"
+        "attachments/logo.png"
       ]
     },
-    "lib/media/placeholder.png": {
-      "modifiedTime": 1708688687138,
-      "sourceSize": 38667,
-      "exportedPath": "lib/media/placeholder.png",
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 6539,
+      "modifiedTime": 1709203186503,
+      "sourceSize": 10626,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 37375,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 671527,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 4144,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1708689257273,
+      "modifiedTime": 1709203186503,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 599,
+      "modifiedTime": 1709203186503,
+      "sourceSize": 717,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1708689257273,
-      "sourceSize": 7217,
-      "exportedPath": "lib/styles/other-plugins.css",
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 37375,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 697859,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 4144,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Historical Elements/Legends and Tales/The Druidic Sacrifice.md": {
+      "modifiedTime": 1709158936375,
+      "sourceSize": 2764,
+      "exportedPath": "historical-elements/legends-and-tales/the-druidic-sacrifice.html",
+      "dependencies": []
+    },
+    "Historical Elements/Legends and Tales.md": {
+      "modifiedTime": 1709158936375,
+      "sourceSize": 263,
+      "exportedPath": "historical-elements/legends-and-tales.html",
+      "dependencies": []
+    },
+    "Timelines/Time and the Calendar.md": {
+      "modifiedTime": 1709158936375,
+      "sourceSize": 2545,
+      "exportedPath": "timelines/time-and-the-calendar.html",
+      "dependencies": []
+    },
+    "Economics/currency/Dwarven Crowns.md": {
+      "modifiedTime": 1709160385892,
+      "sourceSize": 2409,
+      "exportedPath": "economics/currency/dwarven-crowns.html",
+      "dependencies": [
+        "lib/media/goldencrown.png"
+      ]
+    },
+    "Maps/Maps.md": {
+      "modifiedTime": 1709160385892,
+      "sourceSize": 448,
+      "exportedPath": "maps/maps.html",
+      "dependencies": []
+    },
+    "lib/media/goldencrown.png": {
+      "modifiedTime": 1709160385892,
+      "sourceSize": 73569,
+      "exportedPath": "lib/media/goldencrown.png",
+      "dependencies": []
+    },
+    "Geographic Elements/Continents.md": {
+      "modifiedTime": 1709199617209,
+      "sourceSize": 1229,
+      "exportedPath": "geographic-elements/continents.html",
+      "dependencies": [
+        "lib/media/caitha_continents.png"
+      ]
+    },
+    "lib/media/caitha_continents.png": {
+      "modifiedTime": 1709199617209,
+      "sourceSize": 7247407,
+      "exportedPath": "lib/media/caitha_continents.png",
+      "dependencies": []
+    },
+    "attachments/arcanebondwappen.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 775992,
+      "exportedPath": "attachments/arcanebondwappen.png",
+      "dependencies": []
+    },
+    "attachments/caitha_continents.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 7247407,
+      "exportedPath": "attachments/caitha_continents.png",
+      "dependencies": []
+    },
+    "attachments/caitha_g_thumbnail.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 360750,
+      "exportedPath": "attachments/caitha_g_thumbnail.png",
+      "dependencies": []
+    },
+    "attachments/goldencrown.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 73569,
+      "exportedPath": "attachments/goldencrown.png",
+      "dependencies": []
+    },
+    "attachments/logo.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 87467,
+      "exportedPath": "attachments/logo.png",
+      "dependencies": []
+    },
+    "attachments/placeholder.png": {
+      "modifiedTime": 1709203186503,
+      "sourceSize": 38667,
+      "exportedPath": "attachments/placeholder.png",
       "dependencies": []
     }
   }
